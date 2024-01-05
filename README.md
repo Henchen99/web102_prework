@@ -25,12 +25,9 @@ Here's a walkthrough of implemented features:
 
 <img src="web_project_showcase.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with LiceCap
+
 
 ## Notes
 
@@ -38,6 +35,8 @@ I am familiar with HTML and CSS from previous projects but not so much Javascrip
 amount of experience in programming (Python, C++) so the logic came quickly, plus the notes were well explained which helped!
 
 Finally getting a better understanding of how Javascript is used alongside HTML and CSS was very eyeopening.
+
+Unfortunately due to time constaints, I wasn't able to work on any of the optional tasks, although I hope to try them in the future.
 
 ## License
 
